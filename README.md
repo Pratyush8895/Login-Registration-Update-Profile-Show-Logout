@@ -16,3 +16,6 @@ Profile Page
 
 ![alt text](https://github.com/Pratyush8895/Login-Registration-Update-Profile-Show-Logout/blob/master/assets/Capture4.PNG)
 
+Unauthorized User
+
+![alt text](https://github.com/Pratyush8895/Login-Registration-Update-Profile-Show-Logout/blob/master/assets/Capture5.PNG)
